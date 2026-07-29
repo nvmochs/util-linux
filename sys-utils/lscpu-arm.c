@@ -189,6 +189,7 @@ static const struct id_part nvidia_part[] = {
     { 0x003, "Denver-2" },
     { 0x004, "Carmel" },
     { 0x010, "Olympus" },
+    { 0x011, "Rigel" },
     { -1, "unknown" },
 };
 
